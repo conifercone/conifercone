@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm conifercone</h1>
 <h3 align="center">A java developer from China</h3>
 
+[![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=Nambers&show_icons=true)](https://github.com/conifercone/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nambers&layout=compact)](https://github.com/conifercone/github-readme-stats)
+
+
 - 🌱 I’m currently learning **spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/conifercone](https://github.com/conifercone)
