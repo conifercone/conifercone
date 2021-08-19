@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm conifercone</h1>
 <h3 align="center">A java developer from China</h3>
 
-[![Nambers's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![conifercone's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conifercone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
