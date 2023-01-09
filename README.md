@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [https://conifercone.github.io/](https://conifercone.github.io/)
 
-- 💬 Ask me about **java**
-
 - 📫 How to reach me **sky5486560@gmail.com**
 
 [![conifercone's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
