@@ -10,17 +10,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, Python, Java, Kotlin, Astro],
+   code: [Java, Kotlin, Javascript, Typescript],
    technologies: {
       frontEnd: {
-         js: ["Vue", "Angular"],
+         js: ["Vue"],
          css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
+         java: ["Spring", "Spring Boot", "Spring Cloud", "JPA"],
          js: ["Node"]
       },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"]
+      databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"]
    }
 };
 ```
