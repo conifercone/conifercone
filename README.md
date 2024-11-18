@@ -1,4 +1,4 @@
-<img src="https://github.com/conifercone/conifercone/blob/main/svg.svg"/>
+![](./svg.svg)
 
 ![](https://komarev.com/ghpvc/?username=conifercone&abbreviated=true)
 
@@ -10,7 +10,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Java, Kotlin, Javascript, Typescript],
+   code: ["Java", "Kotlin", "Javascript", "Typescript"],
    technologies: {
       frontEnd: {
          js: ["Vue"],
