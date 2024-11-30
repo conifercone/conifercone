@@ -30,6 +30,3 @@ const aboutMe = {
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true&theme=cobalt)
 
 ---
-
-⭐️ From [conifercone](https://github.com/conifercone) inspired by [reeveng](https://github.com/reeveng)
-![](https://hit.yhype.me/github/profile?user_id=30498960)
