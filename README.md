@@ -27,6 +27,6 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true&theme=cobalt)
+![conifercone's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true&theme=cobalt)
 
 ---
