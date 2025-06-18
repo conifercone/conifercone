@@ -27,6 +27,6 @@ const aboutMe = {
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![conifercone's github stats](https://github-readme-stats.vercel.app/api?username=conifercone&show_icons=true&theme=cobalt&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![conifercone github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=conifercone)
 
 ---
