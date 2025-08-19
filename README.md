@@ -14,7 +14,8 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring", "Spring Boot", "Spring Cloud", "JPA"],
-         js: ["Node"]
+         js: ["Node"],
+         learning: ["Rust"]
       },
       databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"]
    }
