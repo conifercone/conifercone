@@ -8,14 +8,14 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: ["Java", "Kotlin", "Javascript", "Typescript"],
    technologies: {
+      learning: ["Rust"],
       frontEnd: {
          js: ["Vue"],
          css: ["Bootstrap"]
       },
       backEnd: {
          java: ["Spring", "Spring Boot", "Spring Cloud", "JPA"],
-         js: ["Node"],
-         learning: ["Rust"]
+         js: ["Node"]
       },
       databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"]
    }
