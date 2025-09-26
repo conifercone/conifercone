@@ -14,7 +14,7 @@ const aboutMe = {
          css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring", "Spring Boot", "Spring Cloud", "JPA"],
+         java: ["Spring", "Spring Boot", "Spring Cloud", "JPA", "Mybatis"],
          js: ["Node"]
       },
       databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"]
