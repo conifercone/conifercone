@@ -17,7 +17,7 @@ const aboutMe = {
          java: ["Spring", "Spring Boot", "Spring Cloud", "JPA", "Mybatis"],
          js: ["Node"]
       },
-      databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"]
+      databases: ["PostgreSQL", "MySQL", "Oracle", "MongoDB", "Redis", "Elasticsearch"]
    }
 };
 ```
