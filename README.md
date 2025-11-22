@@ -27,5 +27,3 @@ const aboutMe = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/conifercone/conifercone/main/snk/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/conifercone/conifercone/main/snk/github-snake.svg" />
 </picture>
-
-![conifercone github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=conifercone)
