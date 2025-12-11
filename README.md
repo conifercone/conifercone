@@ -8,7 +8,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    code: ["Java", "Kotlin", "Javascript", "Typescript"],
    technologies: {
-      learning: ["Rust"],
+      learning: ["Rust", "Python"],
       frontEnd: {
          js: ["Vue"],
          css: ["Bootstrap"]
